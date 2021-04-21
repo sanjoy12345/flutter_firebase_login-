@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "871096391229",
+    "firebase_url": "https://login-ef14d.firebaseio.com",
+    "project_id": "login-ef14d",
+    "storage_bucket": "login-ef14d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871096391229:android:b85d11de8bbc3c409f7c54",
+        "android_client_info": {
+          "package_name": "buildappswithpaulo.com.flutter_login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871096391229-obcjtsv47p94roqk7eghcrjrvd2od5td.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFEkEtxA6F9DJtEHv-T3ZvmHqyZZWIp1E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871096391229-obcjtsv47p94roqk7eghcrjrvd2od5td.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
